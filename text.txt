@@ -1,4 +1,7 @@
 Hello world
 JJJ
+HEAD
 Da
 3zapis
+=======
+parent of c3de292 (commit2)
